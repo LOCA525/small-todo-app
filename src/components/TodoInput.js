@@ -19,7 +19,7 @@ const TodoInput = ({ onSubmit }) => {
         <input value={value} onChange={onChange} />
         <button onClick={onClick}>등록</button>
       </div>
-      <h1>Todo List</h1>
+      <h1>투두리스트!</h1>
     </div>
   );
 };
